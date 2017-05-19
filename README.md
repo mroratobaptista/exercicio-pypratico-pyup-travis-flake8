@@ -1,1 +1,8 @@
-# exercicio-pypratico-pyup-travis-flake8
+# Exercício PyPrático
+
+Fazer:
+
+* Criar Pacote
+* Postar PyPI
+* pyup
+* travis (flake8)
