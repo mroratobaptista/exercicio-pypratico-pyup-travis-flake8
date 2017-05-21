@@ -112,7 +112,7 @@ NAME = PACKAGE
 AUTHOR = "Matheus Rorato Baptista"
 AUTHOR_EMAIL = "matheusrorato@gmail.com"
 URL = "https://github.com/mroratobaptista" \
-      "/exercicio-pypratico-exercicio-xml-pyup-travis-flake8"
+      "/exercicio-pypratico-pyup-travis-flake8"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
