@@ -1,8 +1,8 @@
 # Exercício PyPrático
 
-Fazer:
-
-* Criar Pacote
+* Criar função que retorne lista de títulos de cds. (url=https://www.w3schools.com/xml/cd_catalog.xml)
+* Criar pacote
 * Postar PyPI
-* pyup
-* travis (flake8)
+* Implementar pyup
+* Implementar travis
+* Rodar flake8
