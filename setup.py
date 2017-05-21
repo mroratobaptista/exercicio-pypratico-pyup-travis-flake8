@@ -19,8 +19,10 @@ standard_exclude_directories = [
 ]
 
 
-# (c) 2005 Ian Bicking and contributors; written for Paste (http://pythonpaste.org)
-# Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+# (c) 2005 Ian Bicking and contributors; written for Paste
+# (http://pythonpaste.org)
+# Licensed under the MIT license:
+# http://www.opensource.org/licenses/mit-license.php
 # Note: you may want to copy this into your setup.py file verbatim, as
 # you can't import this from another package, when you don't know if
 # that package is installed yet.
@@ -109,7 +111,8 @@ DESCRIPTION = "Pacote criado para exercicio do curso PyPratico"
 NAME = PACKAGE
 AUTHOR = "Matheus Rorato Baptista"
 AUTHOR_EMAIL = "matheusrorato@gmail.com"
-URL = "https://github.com/mroratobaptista/exercicio-pypratico_exercicio_xml-pyup-travis-flake8"
+URL = "https://github.com/mroratobaptista" \
+      "/exercicio-pypratico_exercicio_xml-pyup-travis-flake8"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
@@ -127,7 +130,8 @@ setup(
         "Development Status :: 4 - Beta",
         "Environment :: Web Environment",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
+        "License :: OSI Approved :: GNU Affero General Public License v3 "
+        "or later (AGPLv3+)",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
         "Framework :: Paste",
