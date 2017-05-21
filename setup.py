@@ -112,7 +112,7 @@ NAME = PACKAGE
 AUTHOR = "Matheus Rorato Baptista"
 AUTHOR_EMAIL = "matheusrorato@gmail.com"
 URL = "https://github.com/mroratobaptista" \
-      "/exercicio-pypratico_exercicio_xml-pyup-travis-flake8"
+      "/exercicio-pypratico-exercicio-xml-pyup-travis-flake8"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
@@ -130,8 +130,7 @@ setup(
         "Development Status :: 4 - Beta",
         "Environment :: Web Environment",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: GNU Affero General Public License v3 "
-        "or later (AGPLv3+)",
+        "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
         "Framework :: Paste",
