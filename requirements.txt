@@ -1,6 +1,6 @@
 appdirs==1.4.3
 packaging==16.8
 pyparsing==2.2.0
-requests==2.14.2
+requests==2.16.2
 six==1.10.0
 xmltodict==0.11.0
